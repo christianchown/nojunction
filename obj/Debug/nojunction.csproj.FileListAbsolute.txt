@@ -1,0 +1,6 @@
+C:\Development\console\nojunction\bin\Debug\nojunction.exe.config
+C:\Development\console\nojunction\bin\Debug\nojunction.exe
+C:\Development\console\nojunction\bin\Debug\nojunction.pdb
+C:\Development\console\nojunction\obj\Debug\nojunction.exe
+C:\Development\console\nojunction\obj\Debug\nojunction.pdb
+C:\Development\console\nojunction\obj\Debug\nojunction.csprojResolveAssemblyReference.cache
